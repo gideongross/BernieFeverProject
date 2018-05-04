@@ -61,6 +61,8 @@ Meanwhile, we ran a sentiment analysis of all the comments. We decided to use Te
 
 After having a first look at our data (showing post_id, post message, comment message, associated topic and associated sentiment polarity), using corpus explorer, we created a semantic network and a contingency matrix for visualization
 
+![github_picture1](https://user-images.githubusercontent.com/38719684/39624719-a5cf3838-4f9a-11e8-888b-b4b420a47e5e.png)
+
 To have an in-depth analysis of these results, we created sub-corpuses for each cluster by running queries. Using the corpus explorer, we could do a qualitative analysis of the most interesting boxes from the contingency matrix.
 
 
