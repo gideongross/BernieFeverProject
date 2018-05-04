@@ -110,18 +110,17 @@ The corpus explorer on a subquery of all ‘immigration’ posts revealed that a
 
 ### Figure 6: Contingency Matrix: Post Topics and Comment Sentiment Scores
 
-
+![figure_6_1](https://user-images.githubusercontent.com/38719684/39636043-5c087816-4fbf-11e8-85b0-6e35c4808a8f.png)
 
 The contingency matrix above (figure 1) visualizes a joint distribution of our two variables: the topics addressed in Bernie’s posts on the X-axis and the sentiment score of the comments on the Y-axis. The colors demonstrate the degree of correlation between the two variables with red being the most correlated, blue anti-correlated, and white do not feature any correlation. 
 
 Finally, the size of the cells both horizontally and vertically represent the portion of that category in the overall sample size. For the Y-axis, which contains the sentiment score, the length of the cell is proportional to the number of comments that belong to each category. In this case -1 to 1 is longest because a large part of the comments (for all of the posts) have that score (~ 50%)
 
-
+![figure_6_2](https://user-images.githubusercontent.com/38719684/39636044-5c3cbdba-4fbf-11e8-9260-3424b9e31554.png)
 
 The results of the contingency matrix demonstrate that there is a high correlation between the posts about the Trump administration and comments with a highly negative score (-10 to -5). There is also a strong correlation between posts on minimum wage and comments with a decent positive score (2 to 4) and immigration (and events) and comments with a highly positive sentiment score (8 to 10).
 
 To have a closer look at the strong correlation results between ‘trump administration’ and the very negative sentiment range -10_-5 and ‘minimum wage’ and the positive sentiment range of 2_4, we created field evolution graphs isolating the ‘opinionated’ comments:
-
 
 ### Figure 7: Field Evolution of Opinionated Comments - Subcorpus ‘Trump Administration’
 
