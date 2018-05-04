@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+title:  Bernie Fever and Facebook
+description: We analyze Facebook posts of the official Bernie Sanders page and their comments.
+menu: [
+{'name': 'Home', 'pagename': 'index'},
+{'name': 'sharks here !', 'pagename': 'page1'},
+{'name': 'Go there', 'pagename': 'page2'},
+{'name': 'Yet Another page', 'pagename': 'page3'},
+]
