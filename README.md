@@ -98,6 +98,12 @@ Figure 3 is a heat map showing the network mapping of the various topics contain
 
 The corpus explorer on a subquery of all ‘immigration’ posts revealed that all those comments belonged in fact to three posts only. Nothing can thus be said about a sentiment trend on immigration posts:
 
+![figure_4_2](https://user-images.githubusercontent.com/38719684/39635615-4a41743a-4fbe-11e8-8af0-c9b1d0f383fe.png)
+
+![figure_4_3](https://user-images.githubusercontent.com/38719684/39635616-4a82095a-4fbe-11e8-9810-35ecf0dd88b6.png)
+
+![figure_4_4](https://user-images.githubusercontent.com/38719684/39635617-4acbbe6a-4fbe-11e8-8465-98d224b12680.png)
+
 ### Figure 5: Network Maps
 
 ### Figure 6: Contingency Matrix: Post Topics and Comment Sentiment Scores
