@@ -94,7 +94,7 @@ Figure 3 is a heat map showing the network mapping of the various topics contain
 
 ### Figure 4: Field Evolution of Immigration
 
-
+![figure_4](https://user-images.githubusercontent.com/38719684/39635367-9722d8d0-4fbd-11e8-80fc-5fccc41d0b4c.png)
 
 The corpus explorer on a subquery of all ‘immigration’ posts revealed that all those comments belonged in fact to three posts only. Nothing can thus be said about a sentiment trend on immigration posts:
 
