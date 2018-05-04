@@ -88,7 +88,7 @@ The results demonstrate that posts about topics in the blue cluster (immigration
 
 ### Figure 3: Heat Map with sentiment score as third variable
 
-
+![figure_3](https://user-images.githubusercontent.com/38719684/39635272-4ee339fc-4fbd-11e8-8a2d-74447d3e1ed3.png)
 
 Figure 3 is a heat map showing the network mapping of the various topics contained in the posts, correlated by the average sentiment score that are conveyed in the comments.  Red is a more positive sentiment score with bright red being a score of 10. Blue is negative sentiment score, the darker it is the more negative the score is. White is a neutral sentiment score. Posts about immigration appear to elicit very positive comments. A closer look at the data, however, shows that immigration posts were very close in time suggesting that it was about a specific event which might explain why it has received a very positive score (Figure 4):
 
