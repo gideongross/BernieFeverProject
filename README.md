@@ -80,7 +80,7 @@ This shows a temporal evolution of the topics of Bernie’s posts. We can see th
 
 ### Figure 2: Network Modeling with aggregated sentiment score as tags
 
-
+![figure_2](https://user-images.githubusercontent.com/38719684/39635063-b13a8fc0-4fbc-11e8-9b52-a234b72dee98.png)
 
 The above figure provides us with a visualization of the connection between different topics in Bernie’s posts in clusters complimented by the average aggregated score of the sentiment analysis on the comments of the cluster. This network map (Figure 2) shows three main clusters of topics, meaning that one post could contain multiple topics that are within the same cluster or that share a node. For example some posts that are about minimum wage also mention socioeconomic justice or health care. The Yellow and blue clusters are connected whereas the green cluster is isolated. 
 
@@ -88,7 +88,7 @@ The results demonstrate that posts about topics in the blue cluster (immigration
 
 ### Figure 3: Heat Map with sentiment score as third variable
 
-![figure_2](https://user-images.githubusercontent.com/38719684/39635063-b13a8fc0-4fbc-11e8-9b52-a234b72dee98.png)
+
 
 Figure 3 is a heat map showing the network mapping of the various topics contained in the posts, correlated by the average sentiment score that are conveyed in the comments.  Red is a more positive sentiment score with bright red being a score of 10. Blue is negative sentiment score, the darker it is the more negative the score is. White is a neutral sentiment score. Posts about immigration appear to elicit very positive comments. A closer look at the data, however, shows that immigration posts were very close in time suggesting that it was about a specific event which might explain why it has received a very positive score (Figure 4):
 
