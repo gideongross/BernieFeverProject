@@ -1,5 +1,3 @@
-## Overview
-
 ## Theoretical Overview
 
 Hailed  as “the third age of political communication” (Larsson, 2014), the Internet is playing an increasingly significant role in politics across the world.  The latest US Presidential elections and the Brexit vote, have demonstrated how non-direct interests can manipulate the political conversation, particularly through Facebook.  But how do political figures themselves stimulate and influence public conversation through their own Facebook pages?
