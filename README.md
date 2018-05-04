@@ -70,6 +70,44 @@ To have an in-depth analysis of these results, we created sub-corpuses for each 
 
 
 
+## Analysis
+
+### Figure 1
+
+
+
+This shows a temporal evolution of the topics of Bernie’s posts. We can see that socio economic justice, corporate welfare, trump administration, and healthcare were the dominant ones with some movement in terms of ranking among the top ones, but no drastic ones overall
+
+### Figure 2
+
+
+
+The above figure provides us with a visualization of the connection between different topics in Bernie’s posts in clusters complimented by the average aggregated score of the sentiment analysis on the comments of the cluster. This network map (Figure 2) shows three main clusters of topics, meaning that one post could contain multiple topics that are within the same cluster or that share a node. For example some posts that are about minimum wage also mention socioeconomic justice or health care. The Yellow and blue clusters are connected whereas the green cluster is isolated. 
+
+The results demonstrate that posts about topics in the blue cluster (immigration, events, and healthcare) and the green cluster (education, gun control,..etc) have an aggregated highly positive score of 8 to 10. This means that these posts generally generate comments with a positive sentiment such as agreement and praise. While topics in the yellow cluster such as the trump administration, socioeconomic justice, and the supreme court have comments with a highly negative sentiment score (-10 to -5). We believe that some negative comments are not necessarily about the topic itself or a criticism of the post’s content, but negative statements about Bernie himself such as “ Berinie where is your humanity? You are cruel.”
+
+### Figure 3
+
+
+
+Figure 3 is a heat map showing the network mapping of the various topics contained in the posts, correlated by the average sentiment score that are conveyed in the comments.  Red is a more positive sentiment score with bright red being a score of 10. Blue is negative sentiment score, the darker it is the more negative the score is. White is a neutral sentiment score. Posts about immigration appear to elicit very positive comments. A closer look at the data, however, shows that immigration posts were very close in time suggesting that it was about a specific event which might explain why it has received a very positive score (Figure 4):
+
+### Figure 4
+
+
+
+The corpus explorer on a subquery of all ‘immigration’ posts revealed that all those comments belonged in fact to three posts only. Nothing can thus be said about a sentiment trend on immigration posts:
+
+### Figure 5 
+
+
+
+
+
+
+
+
+
 ## References
 
 Aharony, N. (2012) Twitter use by three political leaders: an exploratory analysis Online Information Review, Vol. 36, No. 4, pp. 587-603
