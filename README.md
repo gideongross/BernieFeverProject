@@ -1,4 +1,15 @@
-## Theoretical Overview
+theme: jekyll-theme-slate
+title:  Bernie Fever and Facebook
+description: We analyze Facebook posts of the official Bernie Sanders page and their comments.
+menu: [
+{'name': 'Home', 'pagename': 'index'},
+{'name': 'sharks here !', 'pagename': 'page1'},
+{'name': 'Go there', 'pagename': 'page2'},
+{'name': 'Yet Another page', 'pagename': 'page3'},
+]
+
+
+Theoretical Overview
 
 Hailed  as “the third age of political communication” (Larsson, 2014), the Internet is playing an increasingly significant role in politics across the world.  The latest US Presidential elections and the Brexit vote, have demonstrated how non-direct interests can manipulate the political conversation, particularly through Facebook.  But how do political figures themselves stimulate and influence public conversation through their own Facebook pages?
 
