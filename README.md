@@ -72,13 +72,13 @@ To have an in-depth analysis of these results, we created sub-corpuses for each 
 
 ## Analysis
 
-### Figure 1
+### Figure 1: Epoch Bump Graph of Post Topics
 
 
 
 This shows a temporal evolution of the topics of Bernie’s posts. We can see that socio economic justice, corporate welfare, trump administration, and healthcare were the dominant ones with some movement in terms of ranking among the top ones, but no drastic ones overall
 
-### Figure 2
+### Figure 2: Network Modeling with aggregated sentiment score as tags
 
 
 
@@ -86,23 +86,41 @@ The above figure provides us with a visualization of the connection between diff
 
 The results demonstrate that posts about topics in the blue cluster (immigration, events, and healthcare) and the green cluster (education, gun control,..etc) have an aggregated highly positive score of 8 to 10. This means that these posts generally generate comments with a positive sentiment such as agreement and praise. While topics in the yellow cluster such as the trump administration, socioeconomic justice, and the supreme court have comments with a highly negative sentiment score (-10 to -5). We believe that some negative comments are not necessarily about the topic itself or a criticism of the post’s content, but negative statements about Bernie himself such as “ Berinie where is your humanity? You are cruel.”
 
-### Figure 3
+### Figure 3: Heat Map with sentiment score as third variable
 
 
 
 Figure 3 is a heat map showing the network mapping of the various topics contained in the posts, correlated by the average sentiment score that are conveyed in the comments.  Red is a more positive sentiment score with bright red being a score of 10. Blue is negative sentiment score, the darker it is the more negative the score is. White is a neutral sentiment score. Posts about immigration appear to elicit very positive comments. A closer look at the data, however, shows that immigration posts were very close in time suggesting that it was about a specific event which might explain why it has received a very positive score (Figure 4):
 
-### Figure 4
+### Figure 4: Field Evolution of Immigration
 
 
 
 The corpus explorer on a subquery of all ‘immigration’ posts revealed that all those comments belonged in fact to three posts only. Nothing can thus be said about a sentiment trend on immigration posts:
 
-### Figure 5 
+### Figure 5: Network Maps
+
+### Figure 6: Contingency Matrix: Post Topics and Comment Sentiment Scores
 
 
 
+The contingency matrix above (figure 1) visualizes a joint distribution of our two variables: the topics addressed in Bernie’s posts on the X-axis and the sentiment score of the comments on the Y-axis. The colors demonstrate the degree of correlation between the two variables with red being the most correlated, blue anti-correlated, and white do not feature any correlation. 
 
+Finally, the size of the cells both horizontally and vertically represent the portion of that category in the overall sample size. For the Y-axis, which contains the sentiment score, the length of the cell is proportional to the number of comments that belong to each category. In this case -1 to 1 is longest because a large part of the comments (for all of the posts) have that score (~ 50%)
+
+
+
+The results of the contingency matrix demonstrate that there is a high correlation between the posts about the Trump administration and comments with a highly negative score (-10 to -5). There is also a strong correlation between posts on minimum wage and comments with a decent positive score (2 to 4) and immigration (and events) and comments with a highly positive sentiment score (8 to 10).
+
+To have a closer look at the strong correlation results between ‘trump administration’ and the very negative sentiment range -10_-5 and ‘minimum wage’ and the positive sentiment range of 2_4, we created field evolution graphs isolating the ‘opinionated’ comments:
+
+
+### Figure 7: Field Evolution of Opinionated Comments - Subcorpus ‘Trump Administration’
+
+
+Though we can indeed see that negative comments mostly dominated throughout, we again see that there are event specific bumps that heavily influence the results. Without those, comments are not really as negative as the contingency matrix may suggest. The same holds true for the topic minimum wage:
+
+### Figure 8: Field Evolution of Opinionated Comments - Subcorpus ‘Minimum Wage’
 
 
 
