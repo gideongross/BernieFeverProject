@@ -106,6 +106,8 @@ The corpus explorer on a subquery of all ‘immigration’ posts revealed that a
 
 ### Figure 5: Network Maps
 
+![figure_5](https://user-images.githubusercontent.com/38719684/39635837-e3d76492-4fbe-11e8-89e8-58754acd85f7.png)
+
 ### Figure 6: Contingency Matrix: Post Topics and Comment Sentiment Scores
 
 
