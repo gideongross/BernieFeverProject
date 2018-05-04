@@ -124,13 +124,13 @@ To have a closer look at the strong correlation results between ‘trump adminis
 
 ### Figure 7: Field Evolution of Opinionated Comments - Subcorpus ‘Trump Administration’
 
+![figure_7](https://user-images.githubusercontent.com/38719684/39636237-ee4b202a-4fbf-11e8-9984-47836b776746.png)
 
 Though we can indeed see that negative comments mostly dominated throughout, we again see that there are event specific bumps that heavily influence the results. Without those, comments are not really as negative as the contingency matrix may suggest. The same holds true for the topic minimum wage:
 
 ### Figure 8: Field Evolution of Opinionated Comments - Subcorpus ‘Minimum Wage’
 
-
-
+![picture_8](https://user-images.githubusercontent.com/38719684/39636239-eebe5464-4fbf-11e8-8bab-9bbb8c31e34a.png)
 
 
 ## References
