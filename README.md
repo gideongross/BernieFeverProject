@@ -74,7 +74,7 @@ To have an in-depth analysis of these results, we created sub-corpuses for each 
 
 ### Figure 1: Epoch Bump Graph of Post Topics
 
-
+![figure_1](https://user-images.githubusercontent.com/38719684/39634923-53e9bf08-4fbc-11e8-9c9a-70de436e7414.png)
 
 This shows a temporal evolution of the topics of Bernie’s posts. We can see that socio economic justice, corporate welfare, trump administration, and healthcare were the dominant ones with some movement in terms of ranking among the top ones, but no drastic ones overall
 
