@@ -52,7 +52,7 @@ Not all of the posts had an assigned topic. In total 59 posts were not labelled.
 
 Meanwhile, we ran a sentiment analysis of all the comments. We decided to use Textblob and to focus on sentiment polarity which varies between -10 (very negative) and +10 (very positive). We sliced the data into the following six bins for better visualization: -10 to -5, -4 to -2, -1 to 1, 2 to 4, 5 to 7, and 8 to 10.
 
-After having a first look at our data (showing post_id, post message, comment message, associated topic and associated sentiment polarity), using corpus explorer, we created a semantic network and a contingency matrix for visualization
+After having a first look at our data using corpus explorer, we created a semantic network and a contingency matrix for visualization
 
 ![github_picture1](https://user-images.githubusercontent.com/38719684/39624719-a5cf3838-4f9a-11e8-888b-b4b420a47e5e.png)
 
