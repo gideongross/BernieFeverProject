@@ -13,7 +13,9 @@ Sentiment analysis of Facebook activity is common but fewer studies have applied
 
 This study therefore contributes to the current literature on Facebook use by political leaders in several ways .  Firstly, by isolating the study to one political figure and adopting topic-based as opposed to typographical analysis, we can gain deeper insight as to how a political opposition leader contributes to the national political conversation.  Secondly, by combining an analysis of both posts and comments we can identify the different ways in which users interact with and respond to certain topics.  Finally, considering the comments also allows us to investigate the levels of emotion and the presence of emotional contagion in online political debate.
 
+## Research Aims
 
+For our research, we wanted to research the question of "what is the level of emotion in political interactions on Facebook?" In particular, we wanted to understand it for different political topics receiving different levels of interaction from the Facebook community. Additionally, we were curious about certain topics that prompt emotional reactions from facebook communities such as immigration. Finally, we wanted to see how if a politician favour specific topics if it results in emotional reactions from facebook followers
 
 ## Methodology 
 
@@ -117,6 +119,10 @@ Though we can indeed see that negative comments mostly dominated throughout, we 
 ### Figure 8: Field Evolution of Opinionated Comments - Subcorpus ‘Minimum Wage’
 
 ![picture_8](https://user-images.githubusercontent.com/38719684/39636239-eebe5464-4fbf-11e8-8bab-9bbb8c31e34a.png)
+
+## Limitations 
+
+## Future Research
 
 
 ## References
