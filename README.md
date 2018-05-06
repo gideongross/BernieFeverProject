@@ -15,15 +15,11 @@ This study therefore contributes to the current literature on Facebook use by po
 
 
 
-## Topic Clusters and Semantic Networks
+## Methodology 
 
 After parsing the two corpuses, we extracted the 500 most frequent noun phrases and created a semantic network map with 200 nodes to get a first impression of the data. To create our own categories and clean the csv files, we downloaded the cluster categories. 
 
 We realized that the names of the default topics created by Cortext were not very accurate, e.g. the topic richest country in the history & history of the world. Moreover, the terms do not always correspond to the default cluster. In some cases the mismatch was obvious, for instance, the noun phrase “newspapers and television” was associated with richest country in the history & history of the world. In some other cases, it was necessary to double-check the content of the posts using the corpus explorer to see how the terms are used in context. Also, some terms such as “next year” or “new report” were too general to be related to specific clusters and we deleted them manually. Based on these findings, we created a more refined list of topics.
-
-
-
-## Topics Identified
 
 1) Trump administration 
 
@@ -50,10 +46,6 @@ We realized that the names of the default topics created by Cortext were not ver
 12) Events [at which Sanders appears]
 
 13) Negative comparison [Sanders often compares the U.S. with other countries to highlight the deficits of the U.S.]
-
-
-
-## Methodology 
 
 We uploaded the customized list as a terms list which we indexed to the 324 posts. 
 Not all of the posts had an assigned topic. In total 59 posts were not labelled. We created a new terms list that did not include posts that had not be tagged to any of the topics. To link the posts and their topics to the respective comments, we built another corpus list which we indexed to the comments.
